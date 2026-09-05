@@ -62,10 +62,10 @@ Pola **Post/Redirect/Get** diterapkan setelah setiap aksi POST (`header('Locatio
 ## Cara Menjalankan
 
 1. Pastikan XAMPP (atau server lokal PHP lainnya) sudah terinstal
-2. Salin folder proyek ke dalam `htdocs/` (contoh: `htdocs/todolist`)
+2. Salin folder proyek ke dalam `htdocs/todolist`
 3. Jalankan Apache melalui XAMPP Control Panel
-4. Buka browser dan akses: `http://localhost/todolist/`
+4. Buka browser dan akses: `http://localhost/todolist/index.php/`
 
 ## Kontributor
 
-- AUlia Nur Fadilah (https://github.com/username)
+- Aulia Nur Fadilah (https://github.com/AuliaNurFadilah/LSP-JWP-40622100120)
